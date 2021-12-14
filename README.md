@@ -1,6 +1,6 @@
 # NER with BERT by Deephault
 
-Milestone 2: ner-with-bert_2.ipynb
+Final: ner_with_bert.ipnyb
 
 For training run the notebook.
 For evaluating run the Evaluation part with the trained model.
